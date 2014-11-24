@@ -348,5 +348,7 @@
   "side-comments.login": "Login",
   "side-comments.signup": "Registra't",
   "side-comments.delete.confirmation": "Estàs segur que vols eliminar aquest comentari?",
-  "side-comments.confirmation.title": "Eliminar comentari"
+  "side-comments.confirmation.title": "Eliminar comentari",
+    
+  "login.ipLimit": "<b>ATENCIÓ:</b><br/>S'ha superat el límit d'usuaris registrats des d'una mateixa xarxa.<br/><br/>En l'estat actual del projecte no es permeten més registres des d'una mateixa xarxa per evitar l'abús del sistema. <br/><br/>Estem treballant per millorar aquesta limitació. <br/><br/>Per cualquier consulta, escriu a web@guanyembarcelona.cat."
 }
