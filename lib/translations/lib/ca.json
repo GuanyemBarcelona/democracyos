@@ -204,7 +204,7 @@
   "view more": "Veure més",
   "View the original text": "Veure el text original",
   "Participant": "Participant",
-  "You must be signed in to vote on this law": "Has d'estar registrat per poder veure aquesta llei",
+  "You must be signed in to vote on this law": "Per votar, has de registrar-te prèviament",
 
   "sidebar.listing{listType}": "Tot",
   "Project": "Projecte",
@@ -340,7 +340,7 @@
   "go back to": "Torna a",
   "Go back to DemocracyOS": "Torna a DemocracyOS",
 
-  "side-comments.post": "Lloc",
+  "side-comments.post": "Envia",
   "side-comments.cancel": "Cancel.la",
   "side-comments.leave-a-comment": "Deixa un comentari",
   "side-comments.delete": "Esborrar",
