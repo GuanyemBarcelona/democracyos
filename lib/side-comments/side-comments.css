@@ -21,6 +21,7 @@
   display: block;
 }
 .side-comment {
+  display: none;
   position: absolute;
   top: 0;
   right: 0;
