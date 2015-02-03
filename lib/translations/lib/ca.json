@@ -204,7 +204,7 @@
   "view more": "Veure més",
   "View the original text": "Veure el text original",
   "Participant": "Participant",
-  "You must be signed in to vote on this law": "Per votar, has de registrar-te prèviament",
+  "You must be signed in to vote on this law": "Has d'estar registrat per poder veure aquesta llei",
 
   "sidebar.listing{listType}": "Tot",
   "Project": "Projecte",
@@ -340,7 +340,7 @@
   "go back to": "Torna a",
   "Go back to DemocracyOS": "Torna a DemocracyOS",
 
-  "side-comments.post": "Envia",
+  "side-comments.post": "Lloc",
   "side-comments.cancel": "Cancel.la",
   "side-comments.leave-a-comment": "Deixa un comentari",
   "side-comments.delete": "Esborrar",
@@ -348,7 +348,5 @@
   "side-comments.login": "Login",
   "side-comments.signup": "Registra't",
   "side-comments.delete.confirmation": "Estàs segur que vols eliminar aquest comentari?",
-  "side-comments.confirmation.title": "Eliminar comentari",
-    
-  "login.ipLimit": "<b>ATENCIÓ:</b><br/>S'ha superat el límit d'usuaris registrats des d'una mateixa xarxa.<br/><br/>En l'estat actual del projecte no es permeten més registres des d'una mateixa xarxa per evitar l'abús del sistema. <br/><br/>Estem treballant per millorar aquesta limitació. <br/><br/>Per cualquier consulta, escriu a web@guanyembarcelona.cat."
+  "side-comments.confirmation.title": "Eliminar comentari"
 }
