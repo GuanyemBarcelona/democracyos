@@ -2,15 +2,25 @@
   "name": "tag-images",
   "description": "DemocracyOS Tag images collection",
   "images": [
-    "images/arts.svg",
     "images/agora.svg",
+    "images/arts.svg",
+    "images/ciutat-vella.svg",
+    "images/eixample.svg",
+    "images/gracia.svg",
+    "images/horta-guinardo.svg",
+    "images/internet.svg",
+    "images/les-corts.svg",
+    "images/nou-barris.svg",
+    "images/parks.svg",
+    "images/people.svg",
+    "images/police.svg",
+    "images/sant-andreu.svg",
+    "images/sant-marti.svg",
+    "images/sants-montjuic.svg",
+    "images/sarria-sant-gervasi.svg",
     "images/scale.svg",
     "images/signs.svg",
-    "images/parks.svg",
-    "images/police.svg",
-    "images/people.svg",
-    "images/transportation.svg",
-    "images/codietic.svg"
+    "images/transportation.svg"
   ],
   "scripts": [
     "index.js"
