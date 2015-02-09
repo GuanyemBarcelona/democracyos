@@ -1,5 +1,23 @@
 [{
     "updatedAt" : "2015-02-06T11:00:00.000Z",
+    "lawId" : "Debat de districte: Sant Martí",
+    "mediaTitle" : "Debat de districte: Sant Martí",
+    "authorUrl" : "",
+    "clauseTruncationText" : "Llegir més",
+    "source" : "",
+    "tag" : "Debats de Sant Martí",
+    "summary" : "Aquí la introducció sobre el debat de districte: Sant Martí",
+    "closingAt" : "2015-03-02T11:00:00.000Z",
+    "author" : "Marc Baiges",
+    "links" : [],
+    "votable" : false,
+    "createdAt" : "2015-02-06T11:00:00.000Z",
+    "participants" : [],
+    "votes" : [],
+    "clauses" : [],
+    "state" : "bill"
+},{
+    "updatedAt" : "2015-02-06T11:00:00.000Z",
     "lawId" : "Debat al Besós i el Maresme",
     "mediaTitle" : "Debat al Besós i el Maresme",
     "authorUrl" : "",
