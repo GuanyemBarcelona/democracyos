@@ -16,6 +16,8 @@ node_modules
 
 components
 
+public/app.*
+
 *.DS_Store
 config*.json
 .idea
