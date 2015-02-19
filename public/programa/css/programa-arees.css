@@ -175,6 +175,11 @@ a.pgm-btn:hover {
   position: absolute;
   right: 10px;
 }
+.pgm-link-intern a {
+    bottom: 0;
+    position: relative;
+    right: 0;
+}
 @media screen and (max-width: 1024px){
   .pgm-program-content {
     height: 195px;
