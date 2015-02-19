@@ -7,19 +7,19 @@ $(function () {
     program = [{
         "id": "area-0",
         "comments": 0,
-        "lawId": "54d92283da5b280f0070051b"
+        "lawId": "54e4ca47b690493300a94308"
     }, {
         "comments": 0,
         "id": "area-1",
-        "lawId": "54d923d418fe6663aae5d801"
+        "lawId": "54e4d3b02d6bfa3500d369ab"
     }, {
         "comments": 0,
         "id": "area-2",
-        "lawId": "54d923df18fe6663aae5d802"
+        "lawId": "54e4d5fdf455314b00718051"
     }, {
         "comments": 0,
         "id": "area-3",
-        "lawId": "54d923eb18fe6663aae5d803"
+        "lawId": "54e4d8adb690493300a9431a"
     }];
 
   function renderSubjectsData() {
