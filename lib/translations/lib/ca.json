@@ -89,7 +89,7 @@
 
   "comments.arguments": "Comentaris",
   "comments.your.arguments": "Els teus comentari",
-  "comments.new.argument": "Nova discussió",
+  "comments.new.argument": "Nova proposta",
   "comments.my.arguments": "Quin és el teu comentari?",
   "comments.replies": "Respostes",
   "comments.reply": "Respondre",
@@ -218,7 +218,7 @@
   "There are no laws to display": "No hi ha lleis per mostrar",
 
   "proposal-article.article.alert.text": "Atenció! Abans de participar,",
-  "proposal-article.article.alert.learn-more": "llegiu les normes d'ús.",
+  "proposal-article.article.alert.learn-more": "llegiu manual i les normes d'ús.",
 
   "Remove argument" : "Traieu comentari",
   "Spam" : "Informar d'abús",
