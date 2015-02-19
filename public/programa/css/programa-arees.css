@@ -41,20 +41,11 @@ body {
 /* ------------------------------------------------------------------------- */
 /* Program related markup                                                    */
 /* ------------------------------------------------------------------------- */
-.pgm-logo {
-  width: 280px;
-  height:80px;
-}
-.pgm-link {
-  width: 700px;
-  height:80px;
-  float: right;
-}
 .pgm-help {
   color: #E65C56;
   float: right;
   font-weight: bold;
-  margin: 10px 0;
+  margin: 40px 0;
   text-transform: uppercase;
 }
 .pgm-help i {
