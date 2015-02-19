@@ -175,7 +175,7 @@ a.pgm-btn:hover {
   position: absolute;
   right: 10px;
 }
-.pgm-link-intern a {
+a.pgm-link-intern {
     bottom: 0;
     position: relative;
     right: 0;
