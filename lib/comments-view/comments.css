@@ -19,6 +19,6 @@ form.comment-form.has-error .help-text.form-errors {
   display:block;
 }
 
-.your-arguments, .my-arguments-list, .comment-form, .new-argument, .add-comment {
+.your-arguments, .my-arguments-list, .comment-form, .new-argument, .side-comment.has-comments .add-comment, .side-comment.no-current-user .add-comment {
 	display: none;
 }
