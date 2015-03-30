@@ -3,7 +3,7 @@
   "description": "header component",
   "dependencies": {
     "slifszyc/query": "0.0.3",
-    "visionmedia/debug": "0.7.4",
+    "visionmedia/debug": "2.1.3",
     "visionmedia/jade": "1.1.5"
     },
   "locals": [

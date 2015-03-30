@@ -3,7 +3,7 @@
   "description": "Settings password view",
   "dependencies": {
     "visionmedia/jade": "1.1.5",
-    "visionmedia/debug": "0.7.4",
+    "visionmedia/debug": "2.1.3",
     "component/t": "1.0.0"
   },
   "locals": [

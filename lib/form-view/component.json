@@ -8,7 +8,7 @@
     "component/t": "1.0.0",
     "component/tip": "2.1.2",
     "segmentio/submit-form": "0.0.1",
-    "visionmedia/debug": "1.0.4"
+    "visionmedia/debug": "2.1.3"
   },
   "locals": [
     "autosubmit",
